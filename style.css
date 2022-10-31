@@ -1,0 +1,6 @@
+body{background-image: -moz-radial-gradientrgb(rgb(255, 119, 0)rgb(0,221,255));}
+body{background-image: -moz-radial-gradientrgb(rgb(255, 119, 0)rgb(0,221,255));}
+.container{
+    display:flex;
+    flex-direction:row;}
+    
