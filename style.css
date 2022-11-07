@@ -1,6 +1,17 @@
-body{background-image: -moz-radial-gradientrgb(rgb(255, 119, 0)rgb(0,221,255));}
-body{background-image: -moz-radial-gradientrgb(rgb(255, 119, 0)rgb(0,221,255));}
-.container{
-    display:flex;
-    flex-direction:row;}
-    
+body {background-color: #ABD0C8 }
+
+h2 { font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #FAFFFC;
+    background-color: #92B25F;
+    border: 2px solid #677d43;
+    border-radius: 5px; }
+
+H3 {color: #FAFFFC;font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #A1BA66;
+    border: 2px solid #677d43;
+    border-radius: 5px;  }
+P {color: #FAFFFC;font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #A1BA66;
+    border: 2px solid #677d43;
+    border-radius: 5px;  }
+   

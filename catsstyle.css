@@ -1,0 +1,14 @@
+body {background-color: #ABD0C8 }
+table, th,td{  color: #FAFFFC;font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;}
+    td {  color: #FAFFFC;font-family:Verdana, Geneva, Tahoma, sans-serif; background-color: #92B25F}
+  h1 { font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #FAFFFC;
+    background-color: #92B25F;
+    border: 2px solid #677d43;
+    border-radius: 5px;  }
+    
+H3 {color: #FAFFFC;font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #A1BA66 ;
+    border: 2px solid #677d43;
+    border-radius: 5px; }
